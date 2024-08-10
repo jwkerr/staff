@@ -1,0 +1,109 @@
+[
+  {
+    "group": "Owners",
+    "colour": "DARK_RED",
+    "bold": true,
+    "italic": false,
+    "underline": false,
+    "strikethrough": false,
+    "obfuscated": false,
+    "usernames": [
+      "Fix"
+    ]
+  },
+  {
+    "group": "Admins",
+    "colour": "DARK_AQUA",
+    "bold": true,
+    "italic": false,
+    "underline": false,
+    "strikethrough": false,
+    "obfuscated": false,
+    "usernames": [
+      "b4d2215c-e47b-4f39-a3e3-e6726e0bc596",
+      "f17d77ab-aed4-44e7-96ef-ec9cd473eda3",
+      "ea798ca9-1192-4334-8ef5-f098bdc9cb39"
+    ]
+  },
+  {
+    "group": "Developers",
+    "colour": "AQUA",
+    "bold": false,
+    "italic": false,
+    "underline": false,
+    "strikethrough": false,
+    "obfuscated": false,
+    "usernames": [
+      "fed0ec4a-f1ad-4b97-9443-876391668b34",
+      "e25ad129-fe8a-4306-b1af-1dee1ff59841"
+    ]
+  },
+  {
+    "group": "Staff Managers",
+    "colour": "f1c40f",
+    "bold": false,
+    "italic": false,
+    "underline": false,
+    "strikethrough": false,
+    "obfuscated": false,
+    "usernames": [
+      "32Andrew",
+      "Aehmett",
+      "PolkadotBlueBear"
+    ]
+  },
+  {
+    "group": "Moderators",
+    "colour": "DARK_GREEN",
+    "bold": false,
+    "italic": false,
+    "underline": false,
+    "strikethrough": false,
+    "obfuscated": false,
+    "usernames": [
+      "Shia_chan",
+      "XxSlayerMCxX",
+      "Coblobster",
+      "Bigshotwarrior",
+      "aas5aa_OvO",
+      "linkeron1",
+      "Uberstrase",
+      "Mednis",
+      "earlgreyteabag",
+      "SuperHappyBros",
+      "Oce_78",
+      "wishful_",
+      "RAWRyoutube",
+      "__Zlatan__",
+      "Gris_",
+      "fabinosen",
+      "tuzzzie",
+      "EchoOcelot",
+      "Knowlton",
+      "Proser",
+      "Lumpeeh",
+      "Andre1098",
+      "AD31",
+      "JR1258"
+    ]
+  },
+  {
+    "group": "Helpers",
+    "colour": "5bbb9b",
+    "bold": false,
+    "italic": false,
+    "underline": false,
+    "strikethrough": false,
+    "obfuscated": false,
+    "usernames": [
+      "Colt_44_magnum",
+      "louisdek",
+      "alpajino",
+      "Devsof",
+      "maplesen",
+      "SaloCorey",
+      "Cryptae",
+      "stvnder"
+    ]
+  }
+]
